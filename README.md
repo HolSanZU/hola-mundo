@@ -1,5 +1,5 @@
 # hola-mundo
-Mi primer repositorio de prueba
+Mi segundo repositorios
 
 Autor: Jose Sanchez
 Fecha: Oct 07 2022
